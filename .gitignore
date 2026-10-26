@@ -1,0 +1,11 @@
+/build/
+/bin/
+*.obj
+*.pdb
+*.ilk
+*.tmp
+*.res
+*.exe
+*.log
+*.dat
+*.zip
